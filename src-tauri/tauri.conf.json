@@ -12,9 +12,11 @@
   "app": {
     "windows": [
       {
-        "title": "syncroom",
-        "width": 800,
-        "height": 600
+        "title": "SyncRoom",
+        "width": 900,
+        "height": 650,
+        "minWidth": 600,
+        "minHeight": 500
       }
     ],
     "security": {
